@@ -1,0 +1,10 @@
+C:\Users\1412\source\repos\AI\AI\bin\Release\SeregaAI.exe.config
+C:\Users\1412\source\repos\AI\AI\bin\Release\SeregaAI.exe
+C:\Users\1412\source\repos\AI\AI\bin\Release\SeregaAI.pdb
+C:\Users\1412\source\repos\AI\AI\obj\Release\AI.csproj.AssemblyReference.cache
+C:\Users\1412\source\repos\AI\AI\obj\Release\AI.Properties.Resources.resources
+C:\Users\1412\source\repos\AI\AI\obj\Release\AI.csproj.GenerateResource.cache
+C:\Users\1412\source\repos\AI\AI\obj\Release\AI.csproj.CoreCompileInputs.cache
+C:\Users\1412\source\repos\AI\AI\obj\Release\SeregaAI.exe
+C:\Users\1412\source\repos\AI\AI\obj\Release\SeregaAI.pdb
+C:\Users\1412\source\repos\AI\AI\obj\Release\SeregaAI.exe.config

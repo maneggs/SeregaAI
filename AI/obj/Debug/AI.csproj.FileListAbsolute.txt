@@ -1,0 +1,8 @@
+C:\Users\1412\source\repos\AI\AI\bin\Debug\AI.exe.config
+C:\Users\1412\source\repos\AI\AI\bin\Debug\AI.exe
+C:\Users\1412\source\repos\AI\AI\bin\Debug\AI.pdb
+C:\Users\1412\source\repos\AI\AI\obj\Debug\AI.csproj.AssemblyReference.cache
+C:\Users\1412\source\repos\AI\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\1412\source\repos\AI\AI\obj\Debug\AI.exe
+C:\Users\1412\source\repos\AI\AI\obj\Debug\AI.pdb
+C:\Users\1412\source\repos\AI\AI\obj\Debug\AI.exe.config
